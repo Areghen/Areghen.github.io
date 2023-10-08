@@ -30,11 +30,11 @@
 ## 1. 이미지
 -제한된 시야와 그것을 보완할 손전등
 
-
+https://github.com/Areghen/Areghen.github.io/blob/main/image/272754397-32e4e180-ae35-4386-b825-8545d47fb17e.png
 
 -게임의 배경이 될 복도장면
 
-272754310-3d318fc6-d7fb-469b-83e4-29da96d58e7f.png
+
 
 -단서중 일부인 열쇠
 
