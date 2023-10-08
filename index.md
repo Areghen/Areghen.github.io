@@ -30,20 +30,22 @@
 ## 1. 이미지
 -제한된 시야와 그것을 보완할 손전등
 
-![image](https://github.com/Areghen/Areghen.github.io/assets/106509651/f83d10cb-4840-4c52-ad7a-08e4a93c03bc)
+![image](https://github.com/Areghen/Areghen.github.io/assets/106509651/99b8d9e0-de84-454c-9d41-19d191e16bba)
 
 
 -게임의 배경이 될 복도장면
 
-![image](https://github.com/Areghen/Areghen.github.io/assets/106509651/5ab8db7a-5e63-4607-ad4a-ead30484a914)
+![image](https://github.com/Areghen/Areghen.github.io/assets/106509651/3e4b74a9-3a8e-42c0-aa49-ab0ce29c5ee4)
 
 
 -단서중 일부인 열쇠
 
-![image](https://github.com/Areghen/Areghen.github.io/assets/106509651/5434c284-fbb5-4e78-ab4c-754ff413bbe4)
+![image](https://github.com/Areghen/Areghen.github.io/assets/106509651/12592800-4aab-48a5-8776-c7317f8633a8)
 
 
 -장식 중 하나인 그림과 상호작용 모습
+
+![image](https://github.com/Areghen/Areghen.github.io/assets/106509651/da664ab2-8295-4814-8872-f6b744f954b1)
 
 
 ## 2. 동영상
