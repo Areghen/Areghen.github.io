@@ -35,10 +35,12 @@
 
 -게임의 배경이 될 복도장면
 
+![image](https://github.com/Areghen/Areghen.github.io/assets/106509651/5ab8db7a-5e63-4607-ad4a-ead30484a914)
 
 
 -단서중 일부인 열쇠
 
+![image](https://github.com/Areghen/Areghen.github.io/assets/106509651/5434c284-fbb5-4e78-ab4c-754ff413bbe4)
 
 
 -장식 중 하나인 그림과 상호작용 모습
