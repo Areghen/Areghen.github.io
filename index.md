@@ -30,7 +30,8 @@
 ## 1. 이미지
 -제한된 시야와 그것을 보완할 손전등
 
-https://github.com/Areghen/Areghen.github.io/blob/main/image/272754397-32e4e180-ae35-4386-b825-8545d47fb17e.png
+![image](https://github.com/Areghen/Areghen.github.io/assets/106509651/f83d10cb-4840-4c52-ad7a-08e4a93c03bc)
+
 
 -게임의 배경이 될 복도장면
 
