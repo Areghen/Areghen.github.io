@@ -42,12 +42,6 @@
 
 ![image](https://github.com/Areghen/Areghen.github.io/assets/106509651/12592800-4aab-48a5-8776-c7317f8633a8)
 
-
--장식 중 하나인 그림과 상호작용 모습
-
-![image](https://github.com/Areghen/Areghen.github.io/assets/106509651/da664ab2-8295-4814-8872-f6b744f954b1)
-
-
 ## 2. 동영상
 ### 링크
 https://youtube.com/shorts/Yj-VmCbSAd4?si=QwkafeEyrmZQi50U
