@@ -55,3 +55,6 @@ https://youtube.com/shorts/Yj-VmCbSAd4?si=QwkafeEyrmZQi50U
 https://youtu.be/UqWtavRip-8?si=rYiAuqSF71drcRrj
 
 https://youtu.be/zUS83tGi0L0?si=KuAIZN7anZgWN7FP
+
+# [대표 이미지]
+
