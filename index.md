@@ -110,4 +110,21 @@ https://youtu.be/zUS83tGi0L0?si=KuAIZN7anZgWN7FP
 ## 1. 게임 오브젝트 분해
 |번호|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|플레이어|<img src="./image/human.png" width="300">|
+|1|플레이어|<img src="./image/player.png" width="200">|
+|2|손전등|<img src="./image/flashLight.png" width="300">|
+|3|문|<img src="./image/doors.png" width="400">|
+|4|평범한 조각상|<img src="./image/statueNormal.png" width="300">|
+|5|기괴한 조각상|<img src="./image/statueHorror.png" width="300">|
+|6|천사상|<img src="./image/statueAngel.png" width="300">|
+|7|액자 속 그림|<img src="./image/flower.png" width="300">|
+|8|액자 속 기괴한 그림|<img src="./image/mask.png" width="300">|
+|9|단서|<img src="./image/paper.png" width="300">|
+|10|열쇠|<img src="./image/key.png" width="300">|
+|11|화분|<img src="./image/pot.png" width="300">|
+|12|상호작용 UI E키|<img src="./image/buttonE.png" width="300">|
+|13|안개|<img src="./image/particle.png" width="300" height="125">|
+|14|손전등 배터리|<img src="./image/battery.png" width="300">|
+|15|공포감 조성 소리1|<img src="./image/soundHorror.png" width="300" height="100">|
+|16|공포감 조성 소리2|<img src="./image/soundHorror2.png" width="300" height="100">|
+|17|셰이더 그래프|<img src="./image/lightGraph.png" width="300" height="100">|
+|18|시작용 버튼|<img src="./image/Start.png" width="300">|
