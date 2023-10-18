@@ -110,7 +110,6 @@ https://youtu.be/zUS83tGi0L0?si=KuAIZN7anZgWN7FP
 ## 1. 게임 오브젝트 분해
 
 |번호|오브젝트 이름|오브젝트 이미지|
-|:----:|:----:|:----:|
 |1|플레이어|<img src="./image/player.png" width="300">|
 |2|손전등|<img src="./image/flashLight.png" width="300">|
 |3|문|<img src="./image/doors.png" width="300">|
