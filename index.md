@@ -313,7 +313,6 @@ https://youtu.be/zUS83tGi0L0?si=KuAIZN7anZgWN7FP
 29. 각 방마다 있는 쪽지를 획득하면 나오는 UI(퍼즐 힌트등)
 30. 플레이어는 발견되는 쪽지의 내용을 토대로 게임이 진행된다
 31. 게임 진행 시 마우스는 화면의 중앙에 고정되고 마우스는 나타나지 않는다.
-32. 
 
 ## 2. 시간별 흐름도 flowchart
 ![flowchart](https://github.com/Areghen/Areghen.github.io/assets/106509651/d3f19088-ba07-428e-9723-acb7bda35809)
